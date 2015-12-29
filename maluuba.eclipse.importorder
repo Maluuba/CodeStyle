@@ -1,0 +1,18 @@
+#Organize Import Order
+#Tue Dec 29 13:03:54 EST 2015
+0=\#java
+1=\#javax
+2=\#lombok
+3=\#org
+4=\#org.maluuba
+5=\#com
+6=\#com.maluuba
+7=\#
+8=java
+9=javax
+10=lombok
+11=org
+12=org.maluuba
+13=com
+14=com.maluuba
+15=
